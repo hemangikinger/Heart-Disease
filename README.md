@@ -6,9 +6,10 @@ World Health Organization has estimated 12 million deaths occur worldwide, every
 Problem Definition:
 
 Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+
 Introduction:
 
-    We have a data which classified if patients have heart disease or not according to features in it. We will try to use this data to create a model which tries predict if a patient has this disease or not. In this kernel I have performed Exploratory Data Analysis on the Heart Diseases UCI and tried to identify relationship between heart disease and various other features. After EDA data pre-processing is done I have applied k-NN(k-Nearest Neighbors) method and Logistic Regression Algorithm to make the predictions.
+   We have a data which classified if patients have heart disease or not according to features in it. We will try to use this data to create a model which tries predict if a patient has this disease or not. In this kernel I have performed Exploratory Data Analysis on the Heart Diseases UCI and tried to identify relationship between heart disease and various other features. After EDA data pre-processing is done I have applied k-NN(k-Nearest Neighbors) method and Logistic Regression Algorithm to make the predictions.
     
 ![image-2](https://github.com/hemangikinger/Heart-Disease/blob/master/image-2.jpg)    
 
